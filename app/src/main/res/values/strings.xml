@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Navigation Component App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_view_satu">Ini adalah halaman pertama</string>
+    <string name="btn_satu">Go To Halaman Kedua</string>
+    <string name="ke_halaman_ketiga">Ke Halaman Ketiga</string>
+    <string name="nama_kamu">Nama Kamu</string>
+    <string name="ini_halaman_kedua">Ini halaman kedua</string>
+    <string name="register">Register</string>
+    <string name="name">name</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="login">Login</string>
+    <string name="hello_user">Hello, user</string>
+    <string name="logout">Logout</string>
+    <string name="signup">Signup</string>
+</resources>
